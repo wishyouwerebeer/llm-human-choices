@@ -1,0 +1,16 @@
+{
+  "model_alias": "haiku",
+  "reported_models": [
+    "claude-haiku-5-5"
+  ],
+  "n_participants": 2,
+  "n_predictions": 40,
+  "n_cli_calls_total": 40,
+  "n_cli_calls_this_run": 40,
+  "cache_hits_this_run": 0,
+  "n_malformed_retries": 0,
+  "n_parse_failures": 0,
+  "mean_seconds_per_call": 1.8256168961524963,
+  "total_input_tokens": 94655,
+  "total_output_tokens": 2413
+}
